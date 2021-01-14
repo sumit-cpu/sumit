@@ -1,0 +1,15 @@
+h1
+{
+    text-align: center;
+    color: brown;
+    font-weight: 600;
+    font-size: 3rem;
+
+}
+input
+{
+background-color: chartreuse;
+border-radius: 10px;
+margin: 0 auto;
+
+}
